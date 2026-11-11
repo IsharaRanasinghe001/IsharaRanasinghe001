@@ -15,6 +15,9 @@ Work on Python , Android Development<br>Obsessed with Networking , Security<br><
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IsharaRanasinghe001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IsharaRanasinghe001&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+
 ---
 [![](https://komarev.com/ghpvc/?username=IsharaRanasinghe001&icon=0&color=0)](https://visitcount.itsvg.in)
 
